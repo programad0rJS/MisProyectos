@@ -1,0 +1,1 @@
+Para recupera los archivo perdidos : Primero git init; git add ;git checkout -- .

@@ -1,0 +1,178 @@
+ /* p{
+     color: red;
+}
+p{
+     color: blue !important;
+}
+p{
+      color: aqua;
+} 
+ *{
+    padding: 0px;
+    margin: 0px; 
+} 
+ p{
+
+        color: #000;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+     font-size: 3pc !important;
+    line-height: 2 !important;
+    font-weight: 100 !important;
+
+    color: rebeccapurple !important;
+    
+ 
+        font-family: 'Lobster', cursive ;
+        font-weight: 900;
+        font-size: 4pc;    
+        
+         font-family: 'Lobster', cursive !important ;
+        font-weight: 900 !important;
+        font-size: 4pc !important;     
+  font-size: 4pc !important; 
+    font-size: 4px; 
+    font-size: 4pt; 
+    font-size: 4rem;
+    font-size: 4mm;  
+     background: red; 
+     background-color:red ; 
+} 
+ *{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    background-color: red;
+    display: inline-block;
+    padding-bottom: 4pc;
+    padding-top: 4pc;
+    padding-left: 4pc;
+    padding-right: 4pc;
+
+}  
+*{
+     margin: 0; 
+    margin:  10px 20px 30px 50px  ;
+}
+h2{
+
+     color: white;
+    font-family: cursive;
+    background-color: red;
+    display: inline-block; 
+     padding: 10px 20px 30px  40px 50px; 
+     background-color: red !important;
+    width:  111199px  !important;
+    height: 111199px !important; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: red !important;
+    width:  199px  !important;
+    height: 199px !important; 
+    text-align: center;
+    border: 4px solid black; 
+    border-radius: 19%;
+    box-shadow: 30px 0px 10px 10px rgb(43, 31, 31);
+     transform: rotate(155deg); 
+
+
+
+
+
+} 
+h1{
+    margin-left: 1130px;
+} 
+
+ *{
+    margin: 0;
+} 
+
+ .Texto{
+    padding: 21px;
+}
+.Texto::first-line{
+    color: blue;
+    font-size: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+} 
+ 
+form{
+    
+    padding-left: 100px !important;
+    padding-right: 100px; 
+    padding-top: 100px !important;
+
+    
+
+} 
+ input{
+    width: 600px;
+    height:100px;
+   
+
+}
+input::selection {
+   color: black !important;
+    background-color: red !important;
+  
+
+} 
+ input::placeholder{
+ 
+    color:red;
+    
+} 
+ p{
+    letter-spacing: 11pc ;
+    letter-spacing: -11pc;
+} 
+
+ Lista de Colores 
+
+
+1.black	#000000
+
+
+2.silver	#c0c0c0
+
+
+3.gray	#808080
+
+
+
+
+Para Ma Info: https://developer.mozilla.org/es/docs/Web/CSS/color_value 
+
+, https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
+
+
+https://htmlcolorcodes.com/es/
+
+
+
+
+Codigos: '#FF5733, #FF5733 '
+
+
+
+https://www.w3schools.com/cssref/css3_pr_transform.asp
+
+
+
+
+
+.container{
+    padding: 19px 3px;
+    background: yellowgreen;
+    width: 460px;
+    height: 460px;
+    margin: 40px;
+       background-image:url(https://avatars.githubusercontent.com/u/8160320?v=4);
+    background-size: cover;         {'background-size: cover / 10px;'}
+       
+       
+       
+}*/
+
